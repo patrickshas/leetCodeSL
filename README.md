@@ -1,3 +1,3 @@
 # leetCodeSolutions
 
-This repository includes select leetcode solutions.
+This repository includes select leetcode practice.
